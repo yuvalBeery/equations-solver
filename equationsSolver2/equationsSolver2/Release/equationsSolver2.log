@@ -1,0 +1,12 @@
+﻿  MyForm.cpp
+D:\programing\github\equations-solver\equationsSolver2\equationsSolver2\fraction.h(14,20): warning C4018: '<': signed/unsigned mismatch
+D:\programing\github\equations-solver\equationsSolver2\equationsSolver2\fraction.h(33,20): warning C4018: '<': signed/unsigned mismatch
+D:\programing\github\equations-solver\equationsSolver2\equationsSolver2\fraction.h(76,21): warning C4018: '<': signed/unsigned mismatch
+D:\programing\github\equations-solver\equationsSolver2\equationsSolver2\fraction.h(99,12): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+D:\programing\github\equations-solver\equationsSolver2\equationsSolver2\fraction.h(164,12): warning C4018: '<': signed/unsigned mismatch
+D:\programing\github\equations-solver\equationsSolver2\equationsSolver2\fraction.h(175,25): warning C4018: '<': signed/unsigned mismatch
+D:\programing\github\equations-solver\equationsSolver2\equationsSolver2\MyForm.cpp(9,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  equationsSolver2.vcxproj -> D:\programing\github\equations-solver\equationsSolver2\Release\equationsSolver2.exe

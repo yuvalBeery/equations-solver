@@ -1,0 +1,3 @@
+D:\programing\c++\equationsSolver2\equationsSolver2\Debug\equationsSolver2.vcxprojAssemblyReference.cache
+D:\programing\c++\equationsSolver2\equationsSolver2\Debug\equationsSolver2.MyForm.resources
+D:\programing\c++\equationsSolver2\equationsSolver2\Debug\equationsSolver2.vcxproj.GenerateResource.cache

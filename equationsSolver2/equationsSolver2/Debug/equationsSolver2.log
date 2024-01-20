@@ -1,0 +1,12 @@
+﻿  MyForm.cpp
+D:\programing\c++\classes\Fraction\Fraction\fraction.h(14,20): warning C4018: '<': signed/unsigned mismatch
+D:\programing\c++\classes\Fraction\Fraction\fraction.h(33,20): warning C4018: '<': signed/unsigned mismatch
+D:\programing\c++\classes\Fraction\Fraction\fraction.h(76,21): warning C4018: '<': signed/unsigned mismatch
+D:\programing\c++\classes\Fraction\Fraction\fraction.h(93,40): warning C4244: 'initializing': conversion from 'long double' to 'int', possible loss of data
+D:\programing\c++\classes\Fraction\Fraction\fraction.h(138,22): warning C4244: '=': conversion from 'long double' to '__int64', possible loss of data
+D:\programing\c++\classes\Fraction\Fraction\fraction.h(139,13): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+D:\programing\c++\classes\Fraction\Fraction\fraction.h(205,12): warning C4018: '<': signed/unsigned mismatch
+D:\programing\c++\classes\Fraction\Fraction\fraction.h(216,25): warning C4018: '<': signed/unsigned mismatch
+D:\programing\c++\equationsSolver2\equationsSolver2\MyForm.cpp(9,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  equationsSolver2.vcxproj -> D:\programing\c++\equationsSolver2\Debug\equationsSolver2.exe

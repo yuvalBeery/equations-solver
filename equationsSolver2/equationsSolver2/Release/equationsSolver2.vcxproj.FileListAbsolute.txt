@@ -1,0 +1,10 @@
+D:\programing\c++\equationsSolver2\equationsSolver2\Release\equationsSolver2.MyForm.resources
+D:\programing\c++\equationsSolver2\equationsSolver2\Release\equationsSolver2.vcxproj.GenerateResource.cache
+D:\programing\c++\math\equationsSolver2\equationsSolver2\Release\equationsSolver2.MyForm.resources
+D:\programing\c++\math\equationsSolver2\equationsSolver2\Release\equationsSolver2.vcxproj.GenerateResource.cache
+D:\programing\c++\math\equationsSolver2\equationsSolver2\Release\equationsSolver2.vcxproj.AssemblyReference.cache
+D:\programing\c++\math\equationsSolver2\equationsSolver2\Release\equationsSolver2.vcxproj.SuggestedBindingRedirects.cache
+D:\programing\github\equations-solver\equationsSolver2\equationsSolver2\Release\equationsSolver2.vcxproj.AssemblyReference.cache
+D:\programing\github\equations-solver\equationsSolver2\equationsSolver2\Release\equationsSolver2.vcxproj.SuggestedBindingRedirects.cache
+D:\programing\github\equations-solver\equationsSolver2\equationsSolver2\Release\equationsSolver2.MyForm.resources
+D:\programing\github\equations-solver\equationsSolver2\equationsSolver2\Release\equationsSolver2.vcxproj.GenerateResource.cache
